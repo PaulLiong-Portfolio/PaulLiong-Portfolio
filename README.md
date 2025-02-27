@@ -10,17 +10,17 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 ### 🛠 Data Skills Acquired
 
 <p align="left">
-  <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="Excel" width="40" height="40"/> **Excel**
+  <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="Excel" width="40" height="40"/> <b>Excel</b>
   <br>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> **Tableau**
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> <b>Tableau</b>
   <br>
-  <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" alt="Power BI" width="40" height="40"/> **Power BI**
+  <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" alt="Power BI" width="40" height="40"/> <b>Power BI</b>
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="60"/> **Azure (Azure SQL Database, Azure Data Factory)**
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="60"/> <b>Azure (Azure SQL Database, Azure Data Factory)</b>
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="70" height="40"/> **MySQL**
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="70" height="40"/> <b>MySQL</b>
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/> **Python (Pandas, NumPy, BeautifulSoup)**
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/> <b>Python (Pandas, NumPy, BeautifulSoup)</b>
 </p>
 
 ---
