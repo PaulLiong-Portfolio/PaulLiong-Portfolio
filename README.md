@@ -20,7 +20,7 @@ An IT infrastructure professional with over ten years of experience, I'm transit
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="70" height="40"/> <b>MySQL</b>
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/> <b>Python (Pandas, NumPy, BeautifulSoup)</b>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60"/> <b>Python (Pandas, NumPy, Matplotlib, Seaborn)</b>
 </p>
 
 ---
