@@ -25,7 +25,7 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 
 ---
 
-### 🚀 Notable Projects
+### 🚀 Please find the following data analysis projects being completed during my Data Skills Bootcamp Programme:
 
 #### 📊 [Excel-Work](https://pliong-justitbootcamp.github.io/Excel-Work/)
 
