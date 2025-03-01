@@ -27,7 +27,7 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 
 ### 🚀 Please find the following data analysis projects being completed during my Data Skills Bootcamp Programme:
 
-#### 📊 [Excel-Work](https://pliong-justitbootcamp.github.io/Excel-Work/)
+#### 📊 [Excel-Handon-Projects](https://paulliong-portfolio.github.io/Excel-Handons-Project/)
 
 - **Tools Used:** Power BI, Excel
 - **Description:** Built an interactive sales dashboard to analyze trends and generate insights, resulting in a clearer understanding of sales performance.
