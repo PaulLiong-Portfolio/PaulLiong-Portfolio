@@ -30,24 +30,10 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 #### 📊 [Excel-Hands-on-Projects](https://paulliong-portfolio.github.io/Excel-Hands-on-Project/)
 
 - **Tools Used:** Power BI, Excel
-- **Description:** Built an interactive sales dashboard to analyze trends and generate insights, resulting in a clearer understanding of sales performance.
-- **Key Features:**
-  - Data cleaning and transformation using Power Query in Power BI.
-  - Dynamic visualizations for sales trends, regional performance, and product categories.
-  - KPI tracking for key sales metrics, including total sales, average order value, and customer growth.
-  - Interactive filters and slicers for in-depth analysis.
-  - *Add a screenshot of your dashboard here, replacing the placeholder.*
-  - *Add a link to your published dashboard if applicable*
 
-#### 📌 [Customer Segmentation with SQL](https://github.com/yourusername/customer-segmentation)
-- **Tools Used:** MySQL
-- **Description:** Used SQL queries to segment customers based on purchasing behavior, identifying high-value customers and potential marketing targets.
-- **Key Features:**
-  - Data extraction and transformation from a relational database.
-  - Customer segmentation using clustering algorithms based on purchase frequency, recency, and monetary value.
-  - Generation of insights for targeted marketing campaigns, including personalized offers and promotions.
-  - *Add a few example SQL queries and their results to your repository's README.*
-  - *Explain the business impact of your customer segmentation.*
+#### 📌 [Tableau & Power BI Handson Projects](https://github.com/yourusername/customer-segmentation)
+- **Tools Used:** Tabeleau & Power BI
+
 
 #### 🕵️‍♂️ [Web Scraping with Python](https://github.com/yourusername/web-scraping-project)
 - **Tools Used:** Python, BeautifulSoup
