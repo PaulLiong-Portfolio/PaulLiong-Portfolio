@@ -27,11 +27,11 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 
 ### 🚀 Please find the following data analysis projects being completed during my Data Skills Bootcamp Programme:
 
-#### 📊 [Excel-Hands-on-Projects](https://paulliong-portfolio.github.io/Excel-Hands-on-Project/)
+#### 📊 [Excel Hands On Projects](https://paulliong-portfolio.github.io/Excel_Hands-on_Project/)
 
 - **Tools Used:** Power BI, Excel
 
-#### 📌 [Tableau & Power BI Handson Projects](https://github.com/yourusername/customer-segmentation)
+#### 📌 [Tableau & Power BI Hands On Projects](https://github.com/yourusername/customer-segmentation)
 - **Tools Used:** Tabeleau & Power BI
 
 
