@@ -34,13 +34,13 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 #### 📌 [Tableau & Power BI Hands On Projects](https://github.com/yourusername/customer-segmentation)
 - **Tools Used:** Tabeleau & Power BI
 
-#### 🔨 [Microsoft Azure Data Hands On Projects]
+#### 🔨 [Microsoft Azure Data Hands On Projects](https://paulliong-portfolio.github.io/Microsoft_Azure_Data_Hands-on_Project/)
 - **Tools Used:**
 
-#### 🪛 [Database Management System Hands On Projects]
+#### 🪛 [Database Management System Hands On Projects](https://paulliong-portfolio.github.io/Database_Management_System_Hands-on_Project/)
 - **Tools Used:** MySql & Workbench
 
-####  🪚[Python  Hands On Projects]
+####  🪚[Python  Hands On Projects](https://paulliong-portfolio.github.io/Python_Hands-on_Project/)
 - **Tools Used:** Python & Google Colab
   
 ---
