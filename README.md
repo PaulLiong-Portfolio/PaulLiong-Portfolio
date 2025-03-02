@@ -35,13 +35,13 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 - **Tools Used:** Tabeleau & Power BI
 
 #### 🔨 [Microsoft Azure Data Hands On Projects]
-- **Tools Used**
+- **Tools Used:**
 
 #### 🪛 [Database Management System Hands On Projects]
-- **Tools Used** MySql
+- **Tools Used:** MySql & Workbench
 
 ####  🪚[Python  Hands On Projects]
-- **Tools Used** Python
+- **Tools Used:** Python & Google Colab
   
 ---
 
