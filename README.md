@@ -34,17 +34,15 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 #### 📌 [Tableau & Power BI Hands On Projects](https://github.com/yourusername/customer-segmentation)
 - **Tools Used:** Tabeleau & Power BI
 
+#### 🔨 [Microsoft Azure Data Hands On Projects]
+- **Tools Used**
 
-#### 🕵️‍♂️ [Web Scraping with Python](https://github.com/yourusername/web-scraping-project)
-- **Tools Used:** Python, BeautifulSoup
-- **Description:** Scraped product data from an e-commerce site, cleaned and stored it for analysis, and performed exploratory data analysis to identify product trends.
-- **Key Features:**
-  - Automated web scraping using Python and BeautifulSoup.
-  - Data cleaning and storage in a CSV file for further analysis.
-  - Exploratory data analysis using Pandas and NumPy to identify product trends and patterns.
-  - *Add a sample of the scraped data to your repository.*
-  - *Include a description of the insights you gained from your exploratory data analysis.*
+#### 🪛 [Database Management System Hands On Projects]
+- **Tools Used** MySql
 
+####  🪚[Python  Hands On Projects]
+- **Tools Used** Python
+  
 ---
 
 ### 📫 Contact Me
