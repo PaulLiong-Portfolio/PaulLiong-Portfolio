@@ -29,7 +29,7 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 
 #### 📊 [Excel Hands On Projects](https://paulliong-portfolio.github.io/Excel_Hands-on_Project/)
 
-- **Tools Used:** Power BI, Excel
+- **Tools Used:** Excel
 
 #### 📌 [Tableau & Power BI Hands On Projects](https://github.com/yourusername/customer-segmentation)
 - **Tools Used:** Tabeleau & Power BI
