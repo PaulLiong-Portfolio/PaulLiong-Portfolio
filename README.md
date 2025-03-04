@@ -31,7 +31,7 @@ An IT infrastructure professional with over ten years of experience, I'm transit
 
 - **Tools Used:** Excel
 
-#### 📌 [Tableau & Power BI Hands On Projects](https://github.com/PaulLiong-Portfolio/Tableau-PowerBI_Hands-on_Project)
+#### 📌 [Tableau & Power BI Hands On Projects](https://paulliong-portfolio.github.io/Tableau-PowerBI_Hands-on_Project)
 - **Tools Used:** Tabeleau & Power BI
 
 #### 🔨 [Microsoft Azure Data Hands On Projects](https://paulliong-portfolio.github.io/Microsoft_Azure_Data_Hands-on_Project/)
