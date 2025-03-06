@@ -3,7 +3,7 @@
 <!--- <img src="https://github.com/user-attachments/assets/139b5542-b53e-4331-b8bb-50409b5aa51e" alt="Welcome GIF" width="200" height="200"/> --->
 
 
-An IT infrastructure professional with over ten years of experience, I'm transitioning into the dynamic field of Data Engineering. My recent completion of [JustIT Trainning's ](https://www.justit.co.uk/)Intesnive Data Skills Bootcamp equipped me with core skills in data analysis and visualization. Despite my entry-level technical skills, my established problem-solving abilities, attention to detail, and analytical thinking are directly transferable to a data-focused role. I'm seeking an entry-level data analysis opportunity, which I view as a crucial stepping stone towards my Data Engineering career. Through hands-on bootcamp projects, I've demonstrated my ability to derive meaningful insights from data and effectively utilise a range of analytical tools.
+An IT infrastructure professional with over ten years of experience base at Shirley, I'm transitioning into the dynamic field of Data Engineering. My recent completion of [JustIT Training’s ](https://www.justit.co.uk/)Intesnive Data Skills Bootcamp equipped me with core skills in data analysis and visualization. Despite my entry-level technical skills, my established problem-solving abilities, attention to detail, and analytical thinking are directly transferable to a data-focused role. I'm seeking an entry-level data analysis opportunity, which I view as a crucial stepping stone towards my Data Engineering career. Through hands-on bootcamp projects, I've demonstrated my ability to derive meaningful insights from data and effectively utilise a range of analytical tools.
 
 ---
 
