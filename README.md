@@ -29,7 +29,7 @@ An IT infrastructure professional with over ten years of experience living in Sh
 
 <!--- #### 📊 [Excel Hands On Projects](https://paulliong-portfolio.github.io/Excel_Hands-on_Project/) --->
 
-[Excel-Work](https://github.com/PaulLiong-Portfolio/Excel-Work/)
+#### 📊 [Excel-Work](https://github.com/PaulLiong-Portfolio/Excel-Work/)
 
 - **Tools Used:** Excel
 
