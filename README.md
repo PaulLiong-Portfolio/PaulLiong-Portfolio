@@ -27,7 +27,7 @@ An IT infrastructure professional with over ten years of experience living in Sh
 
 ### 🚀 Please find the following data analysis projects being completed during my Data Skills Bootcamp Programme:
 
-<!--- #### 📊 [Excel Hands On Projects](https://paulliong-portfolio.github.io/Excel_Hands-on_Project/) --->
+#### 📊 [Excel Hands On Projects](https://paulliong-portfolio.github.io/Excel_Hands-on_Project/) 
 
 #### 📊 [Excel-Work](https://github.com/PaulLiong-Portfolio/Excel-Work/)
 
